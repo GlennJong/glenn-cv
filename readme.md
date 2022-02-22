@@ -20,7 +20,7 @@ I also do some side-project in my free time, and keep learning latest web develo
 ### ONEUP NETWORK CORP. 
 ### UI Designer
 - November 2016 - July 2018
-  - Product UI redesign: 巴哈姆特討論版、巴哈姆特動畫瘋 Web version
+  - Product UI redesign: 巴哈姆特討論版, 巴哈姆特動畫瘋 Web version
   - Responsive UI design.
 
 ### Huaray Co., Ltd.
@@ -102,7 +102,7 @@ More development details had posted on [如看展般的網站水平瀏覽體驗�
 
 ---
 ### Taiwan YouTuber Association website [Link](https://creatorsassociation.tw/)
-![tw-yt](https://github.com/GlennJong/portfolio-en/blob/master/images/tw-yt.gif?raw=true "tw-yt")
+![tw-yt](https://github.com/GlennJong/portfolio-en/blob/master/images/tw-yt.png?raw=true "tw-yt")
 
 - Building GraphQL APIs via Lighthouse.
 - Building message form via React-hook-form.

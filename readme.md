@@ -46,7 +46,7 @@ I also do some side-project in my free time, and keep learning latest web develo
 
 # Works
 ### THE GUIDEBOOK OF MARINE DEBRIS. [Link](http://oceantrash.rethinktw.org/)
-![rethink](https://github.com/GlennJong/portfolio-en/blob/master/images/rethink.gif?raw=true "THE GUIDEBOOK OF MARINE DEBRIS.")
+![rethink](https://github.com/GlennJong/portfolio-en/blob/master/images/rethink.png?raw=true "THE GUIDEBOOK OF MARINE DEBRIS.")
 
 This project is about ocean debris issue in 2018. Built via Laravel Blade and Vue.js.
 - Interaction of rotating elements.[Link](http://oceantrash.rethinktw.org/marine-debris/rubber-duck)
@@ -80,7 +80,7 @@ Yoodesign official website
 
 
 ### Yoodesign official website [Link](https://yoodesign.com.tw/)
-![yoodesign](https://github.com/GlennJong/portfolio-en/blob/master/images/yoodesign.gif?raw=true "yoodesign")
+![yoodesign](https://github.com/GlennJong/portfolio-en/blob/master/images/yoodesign.png?raw=true "yoodesign")
 
 - Using React Hooks to increase efficiency frontend development.
 - Built backend via PHP Laravel and Backpack admin panel.
@@ -92,7 +92,7 @@ More development details had posted on [用景深特效打造網頁空間感－�
 
 ---
 ### SimpleInfo official website [Link](https://www.simpleinfo.cc/)
-![simpleinfo](https://github.com/GlennJong/portfolio-en/blob/master/images/simpleinfo.gif?raw=true "simpleinfo")
+![simpleinfo](https://github.com/GlennJong/portfolio-en/blob/master/images/simpleinfo.png?raw=true "simpleinfo")
 
 - Horizontal scrolling effect, and custom keyboard controls.
 - Using styled-components.

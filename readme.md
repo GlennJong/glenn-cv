@@ -1,7 +1,8 @@
 
 ## Profile
-Hi, I’m Glenn.Frontend Engineer with 6+ years of experience building web applications using React.js and modern web development.
-I’ve contributed to 30+ projects over the past 9 years, working across UI design, frontend, and full-stack development with technologies like Node.js and PHP.
+Hi, I’m Glenn.  
+Frontend Engineer with 6+ years of experience building web applications using React.js and modern web development.
+I’ve contributed to 30+ projects over the past 9 years, working across UI design, frontend, and occasionally full-stack development with technologies like Node.js and PHP.
 
 I enjoy exploring new ideas from daily life to build side projects that help me and my friends, and I’m always learning new technologies and adapting to different development environments.
 
@@ -15,34 +16,34 @@ I enjoy exploring new ideas from daily life to build side projects that help me 
 - Docker, Kubernetes
 - Git workflow (branching, collaboration)
 
-### Optional / Exposure
-- RESTful APIs, Resumable.js, Puppeteer
-- Monitoring setup (Grafana, Prometheus, Loki)
-- Security awareness (ZAP, SonarQube, code vulnerability assessment)
+### Optional
+- RESTful APIs, Microservices, WebSockets
+- Familiar with monitoring tools (Grafana, Prometheus, Loki)
+- Basic knowledge of security practices (ZAP, SonarQube, code vulnerability assessment)
 
 ## Work Experience
-Taiwan AI Labs – Front-end / Full-stack Engineer<br>
+### Taiwan AI Labs – Front-end / Full-stack Engineer  
 May 2022 – Present
 - Migrated legacy Vue.js + PHP Laravel project (QCheck) to in-house K8s/Docker setup, ensuring stable operation and security compliance
 - Resolved **10+** critical/medium security issues to 0 and improved system reliability
 - Developed resumable upload for large genomic files (5–10 GB) with frontend (resumable.js) and PHP backend, improving success rate and speed
-- Optimized frontend workflow for TAIgenomics: webpack caching & HMR → build time **70%↓** (235s → 74s), update + browser refresh **85%↓** (31s → 4s)
+- Optimized TAIgenomics frontend: webpack caching & HMR → build time **↓70%**, update+refresh **↓85%**
 - Built end-to-end resumable upload microservice (Nest.js + tus), enabling parallel large-file processing
 - Established internal on-call system integrating Grafana, Prometheus, Loki with Slack/SNS notifications
 - Contributed to fedGPT frontend: LDAP login, AI model management, and knowledge management interfaces
 
-SimpleInfo Design – Front-end Engineer<br/>
+### SimpleInfo Design – Front-end Engineer
 Aug 2018 – Oct 2021
 - Developed **15+** full-stack websites using JavaScript, HTML, PHP Laravel
 - Managed servers, APIs, and databases for stable operation
 - Built internal tools and monitored website performance with Google Analytics
 
-ONEUP Network Corp – UI Designer<br/>
+### ONEUP Network Corp – UI Designer
 Nov 2016 – Jul 2018
 - Redesigned product UIs (e.g., 巴哈姆特討論版, 巴哈姆特動畫瘋 Web version)
 - Applied responsive UI design and basic frontend coding (HTML/CSS/JS)
 
-Huaray Co., Ltd. – Website Designer<br/>
+### Huaray Co., Ltd. – Website Designer
 Sep 2015 – Oct 2016
 - Designed homepage and e-commerce UI, including responsive layouts
 - Implemented simple frontend coding for prototyping
@@ -66,6 +67,7 @@ Sep 2015 – Oct 2016
 For a closer look at my projects and technical experience, you can check my portfolio here: [Link](https://github.com/GlennJong/portfolio)
 
 ## Contact
-Email: glennjong@hotmail.com<br/>
-Linkedin: https://www.linkedin.com/in/jong-glenn-8733bb231<br/>
+Email: [glennjong@hotmail.com](glennjong@hotmail.com)  
+Github: [https://github.com/GlennJong](https://github.com/GlennJong)  
+Linkedin: [https://www.linkedin.com/in/jong-glenn-8733bb231](https://www.linkedin.com/in/jong-glenn-8733bb231)  
 City: Taipei/Taiwan

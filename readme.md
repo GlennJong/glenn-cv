@@ -20,6 +20,7 @@ I enjoy exploring new ideas from daily life to build side projects that help me 
 - RESTful APIs, Microservices, WebSockets
 - Familiar with monitoring tools (Grafana, Prometheus, Loki)
 - Basic knowledge of security practices (ZAP, SonarQube, code vulnerability assessment)
+- CI/CD pipelines (GitHub Actions, GitLab CI)
 
 ## Work Experience
 ### Taiwan AI Labs – Front-end / Full-stack Engineer  
